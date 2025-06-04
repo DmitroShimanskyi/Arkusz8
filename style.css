@@ -1,0 +1,71 @@
+#all{
+    display: flex;
+    text-align: center;
+    
+}
+
+#stopka{margin-top: 0px;
+    display: flex;
+    text-align: center;
+    height:70px;
+    justify-content: center;
+    color: white;
+     background-color: #795548 ;
+}
+
+#left{
+    width: 72%;
+    text-align: center;
+}
+
+#naglowek{
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    height: 15%;
+    background-color: #795548 ;
+    font-size: 170%;
+}
+
+#obraz{
+    height: 400px;
+}
+
+#right{
+    margin-top: 32px;
+    background-color:#BCAAA4 ;
+    color:#795548 ;
+    height: 700px;
+    width: 28%;
+}
+
+#tab{
+    margin-left: 50px;
+    padding: auto;
+    width: 80%;
+    border:solid 1px #795548;
+    
+}
+
+#kontakt{
+    font-size: 200%;
+}
+
+#obrazek{
+    padding: 20px;
+    border-radius: 40px;
+}
+
+#link{
+    color: white;
+
+}
+
+#radiochose{
+    padding: 7px;
+}
+
+#right{
+    
+    text-align: center;
+}
